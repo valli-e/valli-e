@@ -1,6 +1,8 @@
 <h1 align="center">Greetings, human! How's the simulation treating you? I'm Valentyna</h1>
 <h3 align="center">Well, well, well, look who we have here! A fullstack developer with a passion for art. In other words, a true renaissance person - part tech wizard, part creative genius.</h3>
 
+![text](https://github.com/valli-e/valli-e/blob/valli-e-image/mood.jpg)
+
 - 🔭 I’m currently working on [MetaFarm](https://github.com/AnastasiaGandolfi/MetaFarm)
 
 - 🌱 I’m currently learning **Node.js/Redis**
