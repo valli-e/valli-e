@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MetaFarm](https://github.com/AnastasiaGandolfi/MetaFarm)
 
-- 🌱 I’m currently learning **Node.js/Redis**
+- 🌱 I’m currently learning **Node.js/Redis/UX design**
 
 - 📫 How to reach me **hnatyukvalentyna01@gmail.com**
 - ⚡ Fun fact: **Sometimes I feel like js - nobody understands me**
