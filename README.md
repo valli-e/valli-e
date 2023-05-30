@@ -2,9 +2,6 @@
 <h3 align="center">Well, well, well, look who we have here! A fullstack developer with a passion for art. In other words, a true renaissance person - part tech wizard, part creative genius.</h3>
 
 
-
-- 🔭 I’m currently working on [MetaFarm](https://github.com/AnastasiaGandolfi/MetaFarm)
-
 - 🌱 I’m currently learning **Node.js/Redis/UX design**
 
 - 📫 How to reach me **hnatyukvalentyna01@gmail.com**
