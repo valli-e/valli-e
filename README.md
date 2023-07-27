@@ -2,7 +2,7 @@
 <h3 align="center">Well, well, well, look who we have here! A fullstack developer with a passion for art. In other words, a true renaissance person - part tech wizard, part creative genius.</h3>
 
 
-- 🌱 I’m currently learning **Node.js/Redis/UX design**
+- 🌱 I’m currently learning **Node.js/UX design**
 
 - 📫 How to reach me **hnatyukvalentyna01@gmail.com**
 - ⚡ Fun fact: **Sometimes I feel like js - nobody understands me**
